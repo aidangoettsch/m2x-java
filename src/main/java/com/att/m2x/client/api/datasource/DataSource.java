@@ -10,7 +10,7 @@ public class DataSource extends CommonDataSource {
         return batch;
     }
     
-    public String getBatchName() {
+    public String getBatch_name() {
         return batch_name;
     }
 
